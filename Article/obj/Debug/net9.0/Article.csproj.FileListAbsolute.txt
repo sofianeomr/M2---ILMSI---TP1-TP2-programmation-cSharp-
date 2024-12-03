@@ -1,0 +1,14 @@
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/bin/Debug/net9.0/Article
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/bin/Debug/net9.0/Article.deps.json
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/bin/Debug/net9.0/Article.runtimeconfig.json
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/bin/Debug/net9.0/Article.dll
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/bin/Debug/net9.0/Article.pdb
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.AssemblyInfoInputs.cache
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.AssemblyInfo.cs
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.csproj.CoreCompileInputs.cache
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.dll
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/refint/Article.dll
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.pdb
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/Article.genruntimeconfig.cache
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Article/obj/Debug/net9.0/ref/Article.dll

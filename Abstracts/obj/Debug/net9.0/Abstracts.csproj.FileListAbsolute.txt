@@ -1,0 +1,14 @@
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/bin/Debug/net9.0/Abstracts
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/bin/Debug/net9.0/Abstracts.deps.json
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/bin/Debug/net9.0/Abstracts.runtimeconfig.json
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/bin/Debug/net9.0/Abstracts.dll
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/bin/Debug/net9.0/Abstracts.pdb
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/obj/Debug/net9.0/Abstracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/obj/Debug/net9.0/Abstracts.AssemblyInfoInputs.cache
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/obj/Debug/net9.0/Abstracts.AssemblyInfo.cs
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/obj/Debug/net9.0/Abstracts.csproj.CoreCompileInputs.cache
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/obj/Debug/net9.0/Abstracts.dll
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/obj/Debug/net9.0/refint/Abstracts.dll
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/obj/Debug/net9.0/Abstracts.pdb
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/obj/Debug/net9.0/Abstracts.genruntimeconfig.cache
+/Users/omr/Documents/ESIEE/C#/Exos-C#Net/Abstracts/obj/Debug/net9.0/ref/Abstracts.dll
